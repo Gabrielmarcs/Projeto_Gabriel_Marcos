@@ -20,4 +20,7 @@ public class C {
     public void mc2(){
         System.out.println("MC2");
     }
+    public void mc3(){
+        System.out.println("MC3");
+    }
 }
